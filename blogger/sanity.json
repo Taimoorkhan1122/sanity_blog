@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "blogger"
-  },
   "api": {
     "projectId": "qde4vh64",
     "dataset": "production"
+  },
+  "project": {
+    "name": "blogger"
   },
   "plugins": [
     "@sanity/base",
